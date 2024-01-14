@@ -46,7 +46,7 @@
 
 <br clear="both">
 
-<img src="https://github.com/omeraltinova/omeraltinova/blob/ec11216751ac35d278c1693072d7243d36ca0335/snake.svg" alt="Snake animation" />
+<img src="https://github.com/omeraltinova/omeraltinova/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
