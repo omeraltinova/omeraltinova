@@ -34,7 +34,8 @@
 
 ###
 
-<img align="left" height="150" src="https://i.giphy.com/JIX9t2j0ZTN9S.gif"  /> &nbsp
+<img align="left" height="150" src="https://i.giphy.com/JIX9t2j0ZTN9S.gif"  />
+<img width="12" />
 
 ###
 
