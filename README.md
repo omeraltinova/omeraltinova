@@ -4,8 +4,8 @@
 
 <div align="center">
   
- <!-- <img src="https://streak-stats.demolab.com?user=omeraltinova&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omeraltinova&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+ <!-- <img src="https://streak-stats.demolab.com?user=omeraltinova&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  /> --> 
+ <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omeraltinova&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  /> -->
 </div>
 
 ###
@@ -64,19 +64,18 @@
   </summary>
 
  <h2> Github Stats </h2> 
-<a href="https://github.com/omeraltinova/github-readme-stats"><img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omeraltinova&layout=compact&theme=tokyonight" /></a>
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=omeraltinova&theme=tokyonight" alt="omeraltinova" />
+<a href="https://github.com/omeraltinova/github-readme-stats"><img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omeraltinova&layout=compact&theme=dark" /></a>
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=omeraltinova&theme=dark" alt="omeraltinova" />
 
 <br>
 </br>
 
 <div id="github_stats" align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omeraltinova&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false)](#!)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omeraltinova&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false)](#!)
  
  <br>
  <br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=omeraltinova)](https://github.com/omeraltinova/github-profile-trophy)
 
 </div>
 <div align="center">
