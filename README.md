@@ -69,7 +69,7 @@
   </summary>
 
  <h2> Github Stats & More</h2> 
-<a href="https://github.com/omeraltinova/github-readme-stats"><img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omeraltinova&layout=compact&theme=dark" /></a>
+<a href="https://github.com/omeraltinova/#!"><img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omeraltinova&layout=compact&theme=dark" /></a>
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=omeraltinova&theme=dark" alt="omeraltinova" />
 
 <br>
