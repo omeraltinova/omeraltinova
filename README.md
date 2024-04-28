@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omeraltinova&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  
  <!-- <img src="https://streak-stats.demolab.com?user=omeraltinova&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omeraltinova&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
@@ -72,16 +72,10 @@
 
 <div id="github_stats" align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omeraltinova&count_private=true&show_icons=true&theme=radical&hide_border=true)](#!)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omeraltinova&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false)](#!)
  
  <br>
- 
  <br>
-
-[![Github Activity](https://github-activity-graph-oopa.herokuapp.com/graph?username=omeraltinova&theme=redical&hide_border=true)](#!)
-
-
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=omeraltinova)](https://github.com/omeraltinova/github-profile-trophy)
 
 </div>
