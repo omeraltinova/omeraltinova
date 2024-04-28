@@ -57,11 +57,44 @@
 
 ###
 
+
+<details>
+  <summary>
+    More About Me
+  </summary>
+
+ <h2> Github Stats </h2> 
+<a href="https://github.com/omeraltinova/github-readme-stats"><img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omeraltinova&layout=compact&theme=tokyonight" /></a>
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=omeraltinova&theme=tokyonight" alt="omeraltinova" />
+
+<br>
+</br>
+
+<div id="github_stats" align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omeraltinova&count_private=true&show_icons=true&theme=radical&hide_border=true)](#!)
+ 
+ <br>
+ 
+ <br>
+
+[![Github Activity](https://github-activity-graph-oopa.herokuapp.com/graph?username=omeraltinova&theme=redical&hide_border=true)](#!)
+
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=omeraltinova)](https://github.com/omeraltinova/github-profile-trophy)
+
+</div>
 <div align="center">
   <a href="https://open.spotify.com/user/21prwr3qlkrbm26rogjaycllq"> 
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=21prwr3qlkrbm26rogjaycllq&count=5&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
+
+
+</p>
+</details>
+
 
 ###
 
