@@ -69,20 +69,12 @@
   </summary>
 
  <h2> Github Stats & More</h2> 
-<img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omeraltinova&layout=compact&theme=dark" />
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=omeraltinova&theme=dark" alt="omeraltinova" />
-
-<br>
-</br>
-
-<div id="github_stats" align="center">
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=omeraltinova&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" alt="omeraltinova" />
- <!-- [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omeraltinova&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false)](https://github-readme-streak-stats.herokuapp.com/?user=omeraltinova&theme=dark) --> 
- 
- <br>
- <br>
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=omeraltinova&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omeraltinova&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=omeraltinova&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
+
 <div align="center">
   <a href="https://open.spotify.com/user/21prwr3qlkrbm26rogjaycllq"> 
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=21prwr3qlkrbm26rogjaycllq&count=5&unique=false" alt="Spotify recently played"  />
