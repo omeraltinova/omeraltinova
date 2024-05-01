@@ -69,7 +69,7 @@
   </summary>
 
  <h2> Github Stats & More</h2> 
-<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omeraltinova&layout=compact&theme=dark" />
+<img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omeraltinova&layout=compact&theme=dark" />
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=omeraltinova&theme=dark" alt="omeraltinova" />
 
 <br>
