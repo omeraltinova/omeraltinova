@@ -41,7 +41,7 @@
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=omeraltinova&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <a href="mailto:omerfarukaltinova@gmail.com" target="_blank">
+  <a href="mailto:hello@f4r.uk" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/omeraltinova/" target="_blank">
