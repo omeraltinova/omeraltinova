@@ -44,6 +44,12 @@ I'm a fourth-year Computer Engineering student at İstanbul Medeniyet University
       <p><code>TypeScript</code> <code>OpenRouter</code> <code>PostgreSQL</code> <code>Prisma</code></p>
     </td>
   </tr>
+</table>
+
+<details>
+  <summary><b>More projects in C</b></summary>
+  <br />
+<table>
   <tr>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/omeraltinova/emergency-drone-coordination">Emergency Drone Coordination</a></h4>
@@ -57,8 +63,10 @@ I'm a fourth-year Computer Engineering student at İstanbul Medeniyet University
     </td>
   </tr>
 </table>
+</details>
 
-### Toolbox
+<details>
+  <summary><h3>Toolbox</h3></summary>
 
 <table>
   <tr>
@@ -82,6 +90,7 @@ I'm a fourth-year Computer Engineering student at İstanbul Medeniyet University
     <td><img src="https://cdn.simpleicons.org/nextdotjs/8B949E" width="14" height="14" alt="" />&nbsp;Next.js &nbsp;&nbsp; <img src="https://cdn.simpleicons.org/react/61DAFB" width="14" height="14" alt="" />&nbsp;React &nbsp;&nbsp; <img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" width="14" height="14" alt="" />&nbsp;Node.js &nbsp;&nbsp; <img src="https://cdn.simpleicons.org/docker/2496ED" width="14" height="14" alt="" />&nbsp;Docker &nbsp;&nbsp; <img src="https://cdn.simpleicons.org/git/F05032" width="14" height="14" alt="" />&nbsp;Git &nbsp;&nbsp; <img src="https://cdn.simpleicons.org/linux/FCC624" width="14" height="14" alt="" />&nbsp;Linux &nbsp;&nbsp; <img src="https://cdn.simpleicons.org/raspberrypi/A22846" width="14" height="14" alt="" />&nbsp;Raspberry Pi</td>
   </tr>
 </table>
+</details>
 
 <br />
 
